@@ -42,6 +42,6 @@ app.get('*', routes.index);
 
 // Start server
 
-app.listen(3000, function(){
+app.listen(8000, function(){
   console.log("Server started");
 });
